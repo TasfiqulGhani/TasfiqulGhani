@@ -22,7 +22,7 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/tasfiqulghani/tasfiqulghani/blob/main/README.md"><img alt="Turjoridoy's Github Stats" src="#" height="192px"/></a>
+    
 <br/>
   &nbsp;
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tasfiqulghani&show_icons=true&locale=en&layout=compact&theme=algolia" alt="turjoridoy" height="192px"/>
@@ -35,7 +35,7 @@
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/tasfiqulghani"><img alt="Ghani's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=tasfiqulghani&custom_title=Candida%20Noronha%27s%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/tasfiqulghani"><img alt="Ghani's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=tasfiqulghani&custom_title=Ghani&theme=react-dark" /></a>
   <br/>
 
 </details>
