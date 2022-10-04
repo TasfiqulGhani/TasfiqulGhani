@@ -9,7 +9,7 @@
 
 ## 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=tasfiqulghani&theme=dark)](https://git.io/streak-stats)" alt="tasfiqulghani"  /></p>
-<p align="center"><img src="[![Tasfiqul's GitHub stats](https://github-readme-stats.vercel.app/api?username=tasfiqulghani)](https://github.com/anuraghazra/github-readme-stats)"  /></p>
+<p align="center"><img src="[(https://github-readme-stats.vercel.app/api?username=tasfiqulghani)](https://github.com/anuraghazra/github-readme-stats)"  /></p>
 
 
 
